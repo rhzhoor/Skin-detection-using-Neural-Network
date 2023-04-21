@@ -1,0 +1,2 @@
+# Skin-detection-using-Neural-Network
+This project focuses on skin detection using neural networks. The study presents an approach to detect skin and non-skin pixels in color images using a simple neural network. The results obtained significantly improve the accuracy of skin detection compared to conventional approaches. This project is a concrete example of how neural networks can be used to solve complex problems in image processing.
